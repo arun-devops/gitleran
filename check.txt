@@ -1,8 +1,0 @@
-Hi all
-2line local
-This is second line
-
-
-hi from github
-this also from github
-eight line github
